@@ -1,104 +1,184 @@
-# Hi there 👋, I'm Swaraj Dhaskat
+<h1 align="center">Hi 👋, I'm Swaraj Dhaskat</h1>
 
-🚀 **Python Full Stack Developer** passionate about building scalable, production-ready web applications and modern user experiences.
+<h3 align="center">
+Python Full Stack Developer | Flask Developer | REST API Developer
+</h3>
 
-💡 I enjoy creating real-world solutions using Python, Flask, React, and MySQL while continuously improving my backend architecture and frontend development skills.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Python+Full+Stack+Developer;Flask+%26+REST+API+Developer;Building+Scalable+Web+Applications;Backend+Developer;Modern+Web+Technologies;Passionate+About+Clean+Code;Full+Stack+Problem+Solver" />
+</p>
+
+---
+
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+## 🚀 About Me
+
+* 💻 Python Full Stack Developer with **1.4 Years of Experience**
+* 🔭 Currently working on **Advocate Billing Management System**
+* 🌱 Improving skills in **React, REST APIs, and scalable backend systems**
+* 👨‍💻 Experienced with **Python, Flask, MySQL, SQL Server, REST APIs**
+* ⚡ Passionate about building impactful and production-ready applications
+* 📚 Continuously learning modern technologies and backend architectures
+* 🎯 Focused on clean code, scalable systems, and real-world problem solving
 
 ---
 
 ## 🌐 Portfolio
 
-🔗 Portfolio Website:
+🔗 Portfolio Website
 https://swaraj03-alt.github.io/own-portfolio/
 
 ---
 
-## 👨‍💻 About Me
+## 🌐 Connect With Me
 
-* 🔭 Currently working on Full Stack Web Applications
-* 🌱 Learning advanced Flask architecture, REST APIs, React, and deployment
-* 💬 Ask me about Python, Flask, MySQL, REST APIs, and Web Development
-* ⚡ Passionate about clean UI, scalable backend systems, and problem solving
-* 🎯 Goal: Become a skilled Full Stack Python Developer
+<p align="left">
 
----
+<a href="https://www.linkedin.com/in/swaraj-dhaskat-028b1822a/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
+</a>
 
-## 🚀 Tech Stack
+<a href="mailto:swarajdhaskat02@gmail.com">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="38" width="38" />
+</a>
 
-### 👨‍💻 Languages & Backend
+<a href="https://github.com/swaraj03-alt" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="40" width="40" />
+</a>
 
-* Python
-* Flask
-* REST APIs
-* MySQL
-
-### 🎨 Frontend
-
-* React
-* HTML5
-* CSS3
-* Bootstrap
-* JavaScript
-
-### 🛠 Tools & Platforms
-
-* Git
-* GitHub
-* VS Code
-* Postman
+</p>
 
 ---
 
-## 📌 Featured Projects
+# 🛠️ Tech Stack
 
-### 🏨 Saloon Management System
+## 👨‍💻 Languages
 
-A full-stack Saloon appointment booking and management platform with:
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,mysql" />
+</p>
 
-* User authentication
-* Admin dashboard
-* Responsive UI
+## ⚙️ Backend Development
 
-### 🔐 Flask REST API Backend
+<p>
+<img src="https://skillicons.dev/icons?i=flask,nodejs" />
+</p>
 
-Production-ready REST API built using Flask featuring:
+## 🎨 Frontend Development
 
-* JWT Authentication
-* MySQL integration
-* CRUD operations
-* Secure API architecture
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react" />
+</p>
 
-### 🌐 Portfolio Website
+## 🗄️ Database & Tools
 
-Personal developer portfolio built using React and Bootstrap showcasing:
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman" />
+</p>
 
-* Skills
-* Projects
-* Contact information
-* Responsive modern design
+## ☁️ Cloud & Development
 
----
-
-## 📈 GitHub Goals
-
-* Contribute to Open Source
-* Build scalable backend systems
-* Create impactful full-stack products
-* Improve DSA & system design skills
+<p>
+<img src="https://skillicons.dev/icons?i=aws" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+# 📌 Featured Projects
 
-* 💼 LinkedIn:
-  https://www.linkedin.com/in/swaraj-dhaskat-028b1822a/
+## ⚖️ Advocate Billing Management System
 
-* 💻 GitHub:
-  https://github.com/swaraj03-alt
+* Developing a billing system for legal professionals
+* Managing invoices, client-case tracking, and payment workflows
+* Built using Flask, MySQL (SSMS), and REST APIs
+* Responsive frontend using HTML, CSS, JavaScript, and Bootstrap
 
-* 📧 Email:
-  [swarajdhaskat02@gmail.com](mailto:swarajdhaskat02@gmail.com)
+## 🛢️ Oil Mill Billing Software
+
+* Billing and inventory management system for oil mill operations
+* Features include stock tracking and automated invoice generation
+* Built using Flask and MySQL
+* User-friendly responsive UI for business operations
+
+## 💇 Salon Management System
+
+* Full-stack salon management application
+* Appointment scheduling and billing features
+* Customer management and service history tracking
+* Developed using Flask, REST APIs, MySQL, Bootstrap
 
 ---
 
-⭐ Open to internships, freelance work, and Python Full Stack Developer opportunities.
+# 💼 Experience
+
+## 🏢 Shri Prabhu Softlink Pvt Ltd
+
+### Software Developer
+
+* Developing scalable billing management solutions
+* Designing backend APIs and database schemas
+* Building responsive frontend interfaces
+* Working in Agile development environment
+
+## 💻 Freelance Software Developer
+
+* Delivered customized software solutions for businesses
+* Developed billing and management systems
+* Built scalable full-stack applications
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=swaraj03-alt&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaraj03-alt&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=swaraj03-alt&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=swaraj03-alt&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=swaraj03-alt&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+# 💡 Developer Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+# ⚡ Profile Views
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=swaraj03-alt&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+---
+
+<p align="center">
+⭐ Building scalable and impactful web applications using Python, Flask, REST APIs, and modern frontend technologies.
+</p>
