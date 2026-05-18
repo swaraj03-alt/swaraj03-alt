@@ -27,7 +27,7 @@ Python Full Stack Developer | Flask Developer | REST API Developer
 ## 🌐 Portfolio
 
 🔗 Portfolio Website
-https://swaraj03-alt.github.io/own-portfolio/
+https://swarajdhaskatportfolio.unaux.com/
 
 ---
 
